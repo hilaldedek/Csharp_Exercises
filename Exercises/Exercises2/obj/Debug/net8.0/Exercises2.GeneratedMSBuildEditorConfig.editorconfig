@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercises2
-build_property.ProjectDir = C:\Users\Hp\Desktop\c#Deneme\deneme\Exercises2\
+build_property.ProjectDir = C:\Users\Hp\source\repos\WindowsFormsApp1\Exercises\Exercises2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
