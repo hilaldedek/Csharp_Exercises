@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\bin\Debug\game-WindowsFormApp3.exe.config
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\bin\Debug\game-WindowsFormApp3.exe
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\bin\Debug\game-WindowsFormApp3.pdb
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\obj\Debug\game-WindowsFormApp3.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\obj\Debug\game_WindowsFormApp3.Form1.resources
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\obj\Debug\game_WindowsFormApp3.Properties.Resources.resources
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\obj\Debug\game-WindowsFormApp3.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\obj\Debug\game-WindowsFormApp3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\obj\Debug\game-WindowsFormApp3.exe
+C:\Users\Hp\source\repos\WindowsFormsApp1\game-WindowsFormApp3\game-WindowsFormApp3\obj\Debug\game-WindowsFormApp3.pdb

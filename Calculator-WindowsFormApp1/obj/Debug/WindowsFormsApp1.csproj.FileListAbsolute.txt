@@ -8,3 +8,6 @@ C:\Users\Hp\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsForm
 C:\Users\Hp\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Hp\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Hp\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Hp\source\repos\WindowsFormsApp1\Calculator-WindowsFormApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\WindowsFormsApp1\Calculator-WindowsFormApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hp\source\repos\WindowsFormsApp1\Calculator-WindowsFormApp1\obj\Debug\WindowsFormsApp1.pdb
